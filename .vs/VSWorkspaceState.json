@@ -1,14 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
     "\\.github\\workflows",
-    "\\Forecasting Sales for Rossmann Pharmaceuticals",
-    "\\notebooks",
     "\\scripts",
     "\\src",
     "\\tests"
   ],
-  "SelectedNode": "\\Forecasting Sales for Rossmann Pharmaceuticals",
+  "SelectedNode": "\\scripts\\Random Forest Regressor.py",
   "PreviewInSolutionExplorer": false
 }
