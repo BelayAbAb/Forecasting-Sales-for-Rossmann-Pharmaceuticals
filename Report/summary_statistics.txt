@@ -1,0 +1,21 @@
+Basic Statistics of Sales (Target Variable):
+count    7.720000e+02
+mean     7.374454e+06
+std      1.608654e+06
+min      3.422824e+06
+25%      6.152908e+06
+50%      6.959916e+06
+75%      8.390820e+06
+max      1.191667e+07
+Name: Sales, dtype: float64
+
+Basic Statistics of Customers:
+count    7.720000e+02
+mean     8.086938e+05
+std      1.206774e+05
+min      3.939330e+05
+25%      7.270002e+05
+50%      7.898050e+05
+75%      8.817638e+05
+max      1.154752e+06
+Name: Customers, dtype: float64
